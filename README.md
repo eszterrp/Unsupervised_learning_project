@@ -1,6 +1,6 @@
 # Extended Project #3: Unsupervised Learning
 ## Patient Clustering
-Repository for the 3rd for the Computational Machine Learning project
+Repository is made for my Computational Machine Learning course at the Barcelona School of Economics's Data Science for Decision Making program. 
 
 Contents:
 
